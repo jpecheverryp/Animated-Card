@@ -22,3 +22,7 @@ body {
     background-color: var(--clr-dark);
     color: var(--clr-light);
 }
+
+.img {
+    width: 50vw;
+}
